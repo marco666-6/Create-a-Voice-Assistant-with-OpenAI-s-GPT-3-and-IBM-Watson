@@ -1,7 +1,7 @@
 
 # The Art of Prompt Engineering
 ## Author : Cognitive class AI
-#### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of "The Art of Prompt Engineering" from CognitiveClass.ai
+#### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of "Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson" from CognitiveClass.ai
 ### Mentee info
 #### Name : Marco Philips Sirait
 #### Program : IBM Advance AI (MSIB Batch 6) with Infinite Learning
